@@ -33,5 +33,5 @@ jobs:
           context: .
           platforms: linux/amd64,linux/arm64
           push: true
-          tags: nopenix/seafile-client
+          tags: onezero1010101/seafile-client
       
