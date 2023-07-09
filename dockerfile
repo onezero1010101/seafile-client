@@ -6,7 +6,7 @@ RUN apt upgrade -y
 
 # ARG/ENV Block
 ARG DEBIAN_FRONTEND=noninteractive
-ENV TZ=Europe/Berlin
+ENV TZ=America/Indiana/Indianapolis
 
 # Installing needed prerequisite packages
 RUN apt-get -y install tzdata
