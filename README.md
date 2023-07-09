@@ -1,3 +1,5 @@
+[![Build and Push to Docker Hub](https://github.com/onezero1010101/seafile-client/actions/workflows/Build%20and%20Push%20to%20Docker%20Hub%20Weekly.yml/badge.svg)](https://github.com/onezero1010101/seafile-client/actions/workflows/Build%20and%20Push%20to%20Docker%20Hub%20Weekly.yml)
+
 ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/nopenix/seafile-client/Build%20and%20Push%20to%20Docker%20Hub.yml?label=Build%20and%20Push%20to%20Docker%20Hub)
 ![GitHub issues](https://img.shields.io/github/issues-raw/nopenix/seafile-client)
 ![Docker Stars](https://img.shields.io/docker/stars/nopenix/seafile-client)
